@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite2,Windows - Chrome 110.0.0.0,,,2023-06-15 17:14:20,2023-06-15 17:16:07,1m - 47.483s,PASSED
+,,,,,,,
+Test Cases/Test Case2,Windows - Chrome 110.0.0.0,,,2023-06-15 17:14:20,2023-06-15 17:16:07,1m - 47.186s,PASSED
+"openBrowser("""")",Windows - Chrome 110.0.0.0,,,2023-06-15 17:14:20,2023-06-15 17:15:27,1m - 6.697s,PASSED
+"navigateToUrl(""https://demowebshop.tricentis.com/"")",Windows - Chrome 110.0.0.0,,,2023-06-15 17:15:27,2023-06-15 17:15:30,3.096s,PASSED
+"click(findTestObject(""Object Repository/TricentisDemo/Page_Demo Web Shop/a_Log in""))",Windows - Chrome 110.0.0.0,,,2023-06-15 17:15:30,2023-06-15 17:15:35,5.192s,PASSED
+"setText(findTestObject(""Object Repository/TricentisDemo/Page_Demo Web Shop. Login/input_Email_Email""), ""msk123@gmail.com"")",Windows - Chrome 110.0.0.0,,,2023-06-15 17:15:35,2023-06-15 17:15:44,8.832s,PASSED
+"click(findTestObject(""Object Repository/TricentisDemo/Page_Demo Web Shop. Login/form_Email                                 _630b2d""))",Windows - Chrome 110.0.0.0,,,2023-06-15 17:15:44,2023-06-15 17:15:50,5.539s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/TricentisDemo/Page_Demo Web Shop. Login/input_Password_Password""), ""GqU6l9U4a6o="")",Windows - Chrome 110.0.0.0,,,2023-06-15 17:15:50,2023-06-15 17:15:58,8.574s,PASSED
+"click(findTestObject(""Object Repository/TricentisDemo/Page_Demo Web Shop. Login/input_Forgot password_button-1 login-button""))",Windows - Chrome 110.0.0.0,,,2023-06-15 17:15:58,2023-06-15 17:16:02,3.552s,PASSED
+"click(findTestObject(""Object Repository/TricentisDemo/Page_Demo Web Shop/a_Log out""))",Windows - Chrome 110.0.0.0,,,2023-06-15 17:16:02,2023-06-15 17:16:06,3.724s,PASSED
+closeBrowser(),Windows - Chrome 110.0.0.0,,,2023-06-15 17:16:06,2023-06-15 17:16:07,1.583s,PASSED

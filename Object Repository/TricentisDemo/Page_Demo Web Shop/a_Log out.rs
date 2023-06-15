@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Log out</name>
+   <tag></tag>
+   <elementGuidId>cf52bf54-6357-4144-92bf-459030eef9b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Log out')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ico-logout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>27f430e4-aa51-44d0-8af7-06b0255c4c9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/logout</value>
+      <webElementGuid>c99c0337-4925-4294-a984-5c202f478581</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ico-logout</value>
+      <webElementGuid>2682c330-0dd5-4296-859c-9ba5020d26d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log out</value>
+      <webElementGuid>db80c940-515b-4f73-be32-f358adfaf5b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;header-links-wrapper&quot;]/div[@class=&quot;header-links&quot;]/ul[1]/li[2]/a[@class=&quot;ico-logout&quot;]</value>
+      <webElementGuid>81dd8f4c-62e9-4f47-9c0d-3338a8b8e1a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Log out')]</value>
+      <webElementGuid>e7c5c07c-0bd2-4980-b21f-a3bab8278085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='msk123@gmail.com'])[1]/following::a[1]</value>
+      <webElementGuid>5f55cb37-1f0d-4186-a0b7-b4fd23207cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping cart'])[1]/preceding::a[1]</value>
+      <webElementGuid>a253474b-f7f7-42dd-abb5-eb9e6700ffda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[1]/preceding::a[1]</value>
+      <webElementGuid>1a35658f-8c7f-4991-af06-f82e5c572065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log out']/parent::*</value>
+      <webElementGuid>87a14d61-85ae-45c8-bf9b-f1de8df37ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/logout')]</value>
+      <webElementGuid>ac1b7ccd-157b-458b-8426-069db20d8aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>930cd32c-7021-4380-aff2-f7ca1b90fd07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/logout' and (text() = 'Log out' or . = 'Log out')]</value>
+      <webElementGuid>c849ee2e-617a-48c4-aeab-918dbad01235</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
